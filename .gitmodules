@@ -79,3 +79,6 @@
 	path = components/esp_wifi/lib
 	url = ../../espressif/esp32-wifi-lib.git
 
+[submodule "proryv/tk2020"]
+	path = proryv/tk2020
+	url = https://github.com/abonent312/tk2020
