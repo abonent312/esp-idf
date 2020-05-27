@@ -82,3 +82,6 @@
 [submodule "proryv/tk2020"]
 	path = proryv/tk2020
 	url = https://github.com/abonent312/tk2020
+[submodule "proryv/E32H01_V01"]
+	path = proryv/E32H01_V01
+	url = https://github.com/abonent312/E32H01_V01
